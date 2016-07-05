@@ -1,0 +1,2 @@
+# RimeSetting
+Rime config file
